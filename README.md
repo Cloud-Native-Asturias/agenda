@@ -2,9 +2,12 @@
 The official agenda for events from Cloud Native Asturias
 
 ## Apply as speaker
-If you'd like to speak in a meetup organized by Cloud Native Asturias, please drop an email to [speakers@cloudnativeasturias.com](speakers@cloudnativeasturias.com) with the information below:
+If you have an interesting cool side project or you just would like to speak about technology, drop 
+an email to [speakers@cloudnativeasturias.com](speakers@cloudnativeasturias.com) and we'll give you 
+the visibility through the Cloud Native Asturias.
+Please send us:
 - Your name
-- Summary 1 or 2 sentences explaning what you want to talk about
+- Summary 1 or 2 sentences explaining what you want to talk about
 - Expected time for your talk
 
 ## Coming Next
