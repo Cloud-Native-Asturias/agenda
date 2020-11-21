@@ -11,12 +11,11 @@ Please send us:
 - Expected time for your talk
 
 ## Coming Next
-### The Micronaut: An Unexpected Journey
-- Date: DD mmmmmmm, 2020 at HH:MM - HH:MM
-- Where: [School of Computer Science Engineering, University of Oviedo](http://ingenieriainformatica.uniovi.es)
-- Model: Online 
-- Link: XXXX
-- Slides: AVAILABLE SOON
+### [Cloud Native Asturias Kick Off!](20201216)
+- **Date**: 16 December, 2020 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online 
+- **Registration**: AVAILABLE SOON
+- **Recording**: AVAILABLE SOON
 
 ## Past Events
 None
