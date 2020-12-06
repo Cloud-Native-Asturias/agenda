@@ -11,7 +11,7 @@ Please send us:
 - Expected time for your talk
 
 ## Coming Next
-### [Cloud Native Asturias Kick Off!](20201216.md)
+### [Cloud Native Asturias - D'20](20201216.md)
 - **Date**: 16 December, 2020 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online 
 - **Registration**: AVAILABLE SOON
