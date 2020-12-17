@@ -14,8 +14,11 @@ Please send us:
 ### [Cloud Native Asturias - D'20](20201216.md)
 - **Date**: 16 December, 2020 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online 
-- **Registration**: AVAILABLE SOON
-- **Recording**: AVAILABLE SOON
+- **Recording**: [Cloud Native Asturias D'20 on YouTube](https://www.youtube.com/watch?v=ufDk1LGd3dw)
+- **Slides**: 
+  - [Welcome!](https://docs.google.com/presentation/d/1n532PY0aSukLcOzErAvnynomwl8BINBTTu3DD6NSr78/edit?usp=sharing)
+  - [Building Cloud Native microservices with Micronaut](https://docs.google.com/presentation/d/1b0VEDyovW1uaoQCRkUT1gwPh6S4BZXQRMSTOMd3PwOo/edit#slide=id.gb10f10c126_0_1103)
+  - [Improving Kubernetes security with Pod Security Policies](https://github.com/empathyco/ops-kubernetes-psp)
 
 ## Past Events
 None
