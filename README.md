@@ -11,7 +11,7 @@ Please send us:
 - Expected time for your talk
 
 ## Coming Next
-### [Cloud Native Asturias - JAN'21]
+### Cloud Native Asturias - JAN'21
 
 ## Past Events
 ### [Cloud Native Asturias - D'20](20201216.md)
