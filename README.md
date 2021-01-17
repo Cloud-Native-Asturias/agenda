@@ -11,7 +11,11 @@ Please send us:
 - Expected time for your talk
 
 ## Coming Next
-### Cloud Native Asturias - JAN'21
+### [Cloud Native Asturias - JAN'21](20210120.md)
+- **Date**: 20 January, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online
+- **Recording**: SOON
+- **Slides**: SOON
 
 ## Past Events
 ### [Cloud Native Asturias - D'20](20201216.md)
