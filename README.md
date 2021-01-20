@@ -13,8 +13,10 @@ Please send us:
 ### [Cloud Native Asturias - JAN'21](20210120.md)
 - **Date**: 20 January, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
-- **Recording**: SOON
-- **Slides**: SOON
+- **Recording**: https://youtu.be/r7E68N1fqGY
+- **Slides**:
+  - [Welcome](https://docs.google.com/presentation/d/1CBPwiIMo52CsnGPmmroOmDy8y-qCxN2Tbo_dCdzzkks/edit?usp=sharing)
+  - [Architectural Caching Patterns for Kubernetes](https://www2.slideshare.net/RafaLeszko/architectural-caching-patterns-for-kubernetes)
 
 ## Past Events
 ### [Cloud Native Asturias - D'20](20201216.md)
