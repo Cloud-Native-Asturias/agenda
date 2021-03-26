@@ -11,12 +11,6 @@ Please send us:
 
 ## Coming Next
 
-### [Cloud Native Asturias - MAR'21](20210324.md)
-- **Date**: 24 March, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
-- **Model**: Online
-- **Recording**: PENDING
-- **Slides**: PENDING
-
 ### Cloud Native Asturias - APR'21
 - **Date**: 21 April, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
@@ -36,6 +30,14 @@ Please send us:
 - **Slides**: PENDING
 
 ## Past Events
+### [Cloud Native Asturias - MAR'21](20210324.md)
+- **Date**: 24 March, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online
+- **Recording**: https://www.youtube.com/watch?v=5fotlslJS9U
+- **Slides**:
+  - [Welcome](https://docs.google.com/presentation/d/1_v9qMRJnSaT8WCmRUaTwQ8Ai8mVAEklQIqzGTFBJ_mo/edit?usp=sharing)
+  - [From on-prem to SaaS: our (bumpy) journey to the Cloud](https://prezi.com/view/z0ump8XMPT9xRPJFfhoQ/)
+
 ### [Cloud Native Asturias - FEB'21](20210224.md)
 - **Date**: 24 February, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
