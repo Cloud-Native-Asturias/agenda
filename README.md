@@ -36,6 +36,7 @@ Please send us:
 - **Recording**: https://www.youtube.com/watch?v=5fotlslJS9U
 - **Slides**:
   - [Welcome](https://docs.google.com/presentation/d/1_v9qMRJnSaT8WCmRUaTwQ8Ai8mVAEklQIqzGTFBJ_mo/edit?usp=sharing)
+  - [Putting Chaos into Continuous Delivery - How to evaluate & increase the resilience of your applications](https://docs.google.com/presentation/d/1qCcjVH8GsqjH00yGNlx9GBkdk9b9mjsFV0CP433LqA0/edit)
   - [From on-prem to SaaS: our (bumpy) journey to the Cloud](https://prezi.com/view/z0ump8XMPT9xRPJFfhoQ/)
 
 ### [Cloud Native Asturias - FEB'21](20210224.md)
