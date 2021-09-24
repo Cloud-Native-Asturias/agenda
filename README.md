@@ -10,26 +10,34 @@ Please send us:
 - Expected time for your talk
 
 ## Coming Next
-
-### [Cloud Native Asturias - APR'21](20210421.md)
-- **Date**: 21 April, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
-- **Model**: Online
-- **Recording**: PENDING
-- **Slides**: PENDING
-
-### Cloud Native Asturias - MAY'21
-- **Date**: 19 May, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
-- **Model**: Online
-- **Recording**: PENDING
-- **Slides**: PENDING
-
-### Cloud Native Asturias - JUN'21
-- **Date**: 23 June, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+### [Cloud Native Asturias - SEP'21](20210929.md)
+- **Date**: 29 September, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
 - **Recording**: PENDING
 - **Slides**: PENDING
 
 ## Past Events
+### Cloud Native Asturias - JUN'21
+- **Date**: 23 June, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online
+- **Recording**: https://www.youtube.com/watch?v=Kx2lxnHRhRs
+- **Slides**:
+  - [Welcome](https://docs.google.com/presentation/d/11H1uS5-tkOm5flNSRlJ0CjMu4S-xgdJzqzUS9-soE7I/edit?usp=sharing) 
+
+### Cloud Native Asturias - MAY'21
+- **Date**: 19 May, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online
+- **Recording**: https://www.youtube.com/watch?v=J2vGGGa4Y20
+- **Slides**:
+  - [Welcome](https://docs.google.com/presentation/d/1GabWhiwTCTQrCoAO6YHchUhVxWgqICziT9A62F92bbE/edit?usp=sharing)
+
+### [Cloud Native Asturias - APR'21](20210421.md)
+- **Date**: 21 April, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
+- **Model**: Online
+- **Recording**: https://www.youtube.com/watch?v=EGRN9FOhZks
+- **Slides**:
+  - [Welcome](https://docs.google.com/presentation/d/12EtZWH-Xv4krmnX4oDJFsVwGNDTtYY_aQOXkNtxzQIM/edit?usp=sharing)
+
 ### [Cloud Native Asturias - MAR'21](20210324.md)
 - **Date**: 24 March, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
