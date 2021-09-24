@@ -17,14 +17,14 @@ Please send us:
 - **Slides**: PENDING
 
 ## Past Events
-### Cloud Native Asturias - JUN'21
+### [Cloud Native Asturias - JUN'21](20210623.md)
 - **Date**: 23 June, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
 - **Recording**: https://www.youtube.com/watch?v=Kx2lxnHRhRs
 - **Slides**:
   - [Welcome](https://docs.google.com/presentation/d/11H1uS5-tkOm5flNSRlJ0CjMu4S-xgdJzqzUS9-soE7I/edit?usp=sharing) 
 
-### Cloud Native Asturias - MAY'21
+### [Cloud Native Asturias - MAY'21](20210519.md)
 - **Date**: 19 May, 2021 at 18:30 - 19:30 [GMT+1](https://www.timeanddate.com/worldclock/spain/madrid)
 - **Model**: Online
 - **Recording**: https://www.youtube.com/watch?v=J2vGGGa4Y20
